@@ -1,0 +1,36 @@
+* {margin:0}
+  
+body {
+            font-family:arial,segoe ui;   
+}
+  
+.wrap {
+
+            width:1000px;
+            margin-left:70px;
+			margin-bottom:70px;
+			margin-top:70x;
+			margin-right:70px;
+} 
+             
+.sidobar {
+            float:left;
+            width:45%;
+            background:#6F9;
+            padding:2%;
+			min-height:400px;
+			margin:auto;
+  
+}  
+  
+  
+.sidebar {
+            float:right;
+            width:45%;
+            background:#6F9;
+            padding:2%;
+			min-height:400px;
+			margin:auto;
+			
+  
+}          
